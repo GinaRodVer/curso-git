@@ -1,0 +1,98 @@
+commit f1f3fb56e384e86cc5e0e1e2179ae54dac8b59d9
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 13:47:24 2026 -0300
+
+    Agregando 2 párrafos
+
+commit 13c915ec8c49af51df4a234124ff4035413f4a89
+Merge: 0f6fec6 2f7f64f
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 13:42:58 2026 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 0f6fec64446831707e2bd18415f64ab3f7dd5214
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 13:22:03 2026 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 2f7f64f8b615a431b249149f3d409c8166474104
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 13:22:03 2026 -0300
+
+    Agregando las estaciones del año
+
+commit 3b093e42f6852456bb85a9c1964dceb4a216b96a
+Merge: 2f83adf 660705b
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 13:09:51 2026 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 660705bc8f9067ea2bb04f0c48d94a9abd4ad8a2
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 13:00:12 2026 -0300
+
+    Agregando index.js al index.html
+
+commit 2f83adfc64c72de61d36beafefe0d8ca6fef6816
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 12:56:41 2026 -0300
+
+    Agregando style.css al index.html
+
+commit 88154944160e41d21f3dfebb2a712f1f40aaf897
+Merge: f68220b e2e50be
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Wed Sep 30 12:42:14 2026 -0300
+
+    Merge branch 'js'
+
+commit e2e50bebb6d9b3a4011273f2b1e0b9ad9cdf5c9e
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 16:27:59 2026 -0300
+
+    Creando index.js
+
+commit f68220b9d9326fce4d27838ad3c14ff0da05996e
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 16:21:36 2026 -0300
+
+    Creando style.css
+
+commit 119c85cce3a6364e081992c0ecf44a36b3743ba4
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 16:16:42 2026 -0300
+
+    Creando index.html
+
+commit 1a6e95e73f3a000d743d46535321f8d602d813ac
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 15:36:10 2026 -0300
+
+    Ignorando archivos .exe
+
+commit 4d34fd9382146264534cd33dfe95c244c3c8252e
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 14:43:34 2026 -0300
+
+    Creando licencia del repositorio
+
+commit 45f2a0e0f29ff8a1f7a285c63aee2c7a7fd2aa89
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 14:30:39 2026 -0300
+
+    Agregando más contenido al README
+
+commit c72d344c30d7482aeb2d42074f02fede70887e21
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 13:57:21 2026 -0300
+
+    Agregando contenido inicial al README
+
+commit b77070c07ba601cc97a15089e775753e7e25aa1d
+Author: GinaRodVer <andreinarodriguez0131@gmail.com>
+Date:   Tue Sep 29 13:44:50 2026 -0300
+
+    Primer commit
